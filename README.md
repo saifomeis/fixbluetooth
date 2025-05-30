@@ -14,11 +14,11 @@ A simple Bash script to unpair, scan, pair, and connect a Bluetooth device by MA
 
 2. Make the script executable:
 ```
-chmod +x bluetooth_pair.sh
+chmod +x fixbluetooth.sh
 ```
 3. Run the script
 ```
-./bluetooth_pair.sh
+./fixbluetooth.sh
 ```
 
 ## Why 
