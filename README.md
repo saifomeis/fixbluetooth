@@ -4,7 +4,7 @@ A simple Bash script to unpair, scan, pair, and connect a Bluetooth device by MA
 
 ## Requirements
 
-- Linux system with `bluetoothctl` installed
+- Linux system with `bluez` installed
 - Bluetooth adapter enabled and working
 - Device MAC address
 
